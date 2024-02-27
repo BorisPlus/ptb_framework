@@ -141,7 +141,7 @@ async def click(update: Update, _):
     self.application.vise_versa = self
 ```
 
-Таким образом, из люого места
+Таким образом, из любого места
 
 в обработчиках команд:
 
